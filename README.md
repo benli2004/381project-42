@@ -1,6 +1,17 @@
-Project info:
-Project file intro:
-Cloud-base server URL:
-guides:
+# 381project_group42
 
-fb : 409538882105622 ,pass :5d46903ad3caacd8f345e5f7de19e18d
+## Group Information
+- **Group No.:** 381project-42
+- **Students’ Names and SIDs:**
+  - Li Ka Chun (SID: 13698042)
+  - Yip Chi Shing (SID: 13143800)
+
+# Cloud URL
+
+# Project Information
+
+## Project Name
+**Book Share Website**
+
+## Project Overview
+This Book Share Website is designed to let people share books and give them a rating.
